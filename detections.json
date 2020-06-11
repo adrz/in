@@ -1,5 +1,5 @@
-{"file": "train_00003714.jpg", # nom du fichier
- "image_size": [{"width": 180, "height": 180}], # taille de l'image
+{"file": "train_00003714.jpg",
+ "image_size": [{"width": 180, "height": 180}],
  "objects": [
          {"class_id": "A", "xmin": 10, "xmax": 50, "ymin": 30, "ymax": 123},
          {"class_id": "B", "xmin": 60, "xmax": 100, "ymin": 30, "ymax": 123},
